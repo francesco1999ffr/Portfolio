@@ -15,12 +15,13 @@ Here you will find the following things:
 -GAME DESIGN:
 
     In this folder you can find the following files:
-    + DAMAGE CALCULATION: File excel that i use for to calculate the damage done by the characters in my            game and to modify the values of their characteristics and damage if necessary;
+    + DAMAGE CALCULATION: File excel that i use for to calculate the damage done by the characters in my            
+      game and to modify the values of their characteristics and damage if necessary;
     + PROJECT TITAN PITCH: Concept and gameplay about my videogame project.
       
 -SOUND DESIGN:
 
-     In this folder you can find the file .wav about some sound that i created during a univeristy sound          design course. 
+     In this folder you can find the file .wav about some sound that i created during a univeristy sound design course. 
      All Sound were produced and edit using Nuendo 13:
      + SOUND AMBIENTAL: envioremental sound and atmospheric background;
      + SOUND UI: UI SFX I designed;
@@ -29,10 +30,11 @@ Here you will find the following things:
 -GRAPHIC 3D:
 
     In this file you can find a my personal google drive link where I have uploaded:
-    + CHARACTER AND ANIMATION: Some caracthers that i Designed, rigged and animated  in Blender for my             videogame project;
+    + CHARACTER AND ANIMATION: Some caracthers that i Designed, rigged and animated  in Blender for my videogame project;
     + FANATSY_VILLAGE: Possible level for a videogame project.
       I mainly focused on storytelling through the surrounding enviorement.
-      Inside this folder you can find 3D models created in Blender, together with your texture that I              created with Substain Painter.Inside the Presentation_Fantasy_Village folder you can find the                Twinmotion .exe file, which allows you to explore and move through the level in real time;
+      Inside this folder you can find 3D models created in Blender, together with your texture that I created with Substain Painter.
+      Inside the Presentation_Fantasy_Village folder you can find the Twinmotion .exe file, which allows you to explore and move through the level in real time;
     + ASSET: 3D asset modelled in Blender, with custom textures created using Substain Painter.
       
 -VFX UNITY:
