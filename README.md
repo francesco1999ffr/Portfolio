@@ -15,7 +15,7 @@ Here you will find the following things:
 -GAME DESIGN:
 
     In this folder you can find the following files:
-    + DAMAGE CALCULATION: File excel that i use for to calculate the damage done by the characters in my            
+    + DAMAGE CALCULATION: File excel that i use for to calculate the damage done by the characters in my          
       game and to modify the values of their characteristics and damage if necessary;
     + PROJECT TITAN PITCH: Concept and gameplay about my videogame project.
       
